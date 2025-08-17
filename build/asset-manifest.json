@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whoami/static/css/main.880a8b8c.css",
+    "main.js": "/whoami/static/js/main.69fbaea7.js",
+    "index.html": "/whoami/index.html",
+    "main.880a8b8c.css.map": "/whoami/static/css/main.880a8b8c.css.map",
+    "main.69fbaea7.js.map": "/whoami/static/js/main.69fbaea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.880a8b8c.css",
+    "static/js/main.69fbaea7.js"
+  ]
+}

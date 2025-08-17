@@ -1,0 +1,15 @@
+.header-button{
+  font-size: 0.8rem; 
+  background-color: white;   
+  color: black;    
+}
+
+.header-bar{
+  background-color: white !important;
+  color: black !important;    
+}
+
+.header-project-button{
+  font-size: 1.2rem;
+  color: black; 
+}
